@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+IR-files/
+*_output/
+*_results/
+classiffication_res/
+*.h5
+*.csv
+*.xlsx

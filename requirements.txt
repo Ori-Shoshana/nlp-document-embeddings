@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+openpyxl
+xlsxwriter
+spacy
+gensim
+torch
+transformers
+sentence-transformers
+tensorflow
